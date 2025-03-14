@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamshammas
-- 👀 I’m interested in Offensive Security, Coding, Bug Bounty Hunting.
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Offensive Security, Web Development, Bug Bounty Hunting.
+- 🌱 I’m currently learning Django Framework
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me muhdshammas612@gmail.com
 - 😄 Pronouns: ...
