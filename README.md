@@ -21,7 +21,7 @@ I'm a passionate learner and developer from Kerala, India 🇮🇳, with a stron
 - **Languages**: Python, HTML, CSS, JavaScript (beginner)
 - **Frameworks**: Django, Django REST Framework
 - **Tools**: Git, Linux, Burp Suite, Nmap, VS Code, Postman
-- **Cybersecurity**: TryHackMe, HackTheBox, VAPT (beginner level), Web App Security
+- **Cybersecurity**: TryHackMe, HackTheBox, VAPT, Web App Security
 
 ---
 
