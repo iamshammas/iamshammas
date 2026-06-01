@@ -1,52 +1,96 @@
-### 👋 Hi there, I'm Muhammed Shammas (aka @iamshammas)
+<div align="center">
 
-I'm a passionate learner and developer from Kerala, India 🇮🇳, with a strong interest in:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=header&text=&fontSize=0" width="100%"/>
 
-- 🛡️ Offensive Security & Bug Bounty Hunting  
-- 🌐 Web Development using Django & JavaScript  
-- 🧠 Cybersecurity Research & Capture The Flag (CTF) Challenges  
+```python
+class Shammas:
+    name     = "Muhammed Shammas Noorudheen"
+    role     = "Python & Django Developer"
+    mindset  = "Build backends. Think like an attacker."
+    location = "Kerala, India"
+    open_to  = "Software Engineering Roles"
+```
 
----
-
-### 🧩 What I'm Up To
-
-- 🔍 Currently learning **Django Framework**, DRF, and exploring **Bug Bounty Platforms** like HackerOne & Bugcrowd  
-- 🏗️ Building real-world web applications using Django  
-- 💡 Actively improving my **logical thinking**, **problem-solving**, and **frontend skills**
-
----
-
-### 🚀 Tech Stack
-
-- **Languages**: Python, HTML, CSS, JavaScript (beginner)
-- **Frameworks**: Django, Django REST Framework
-- **Tools**: Git, Linux, Burp Suite, Nmap, VS Code, Postman
-- **Cybersecurity**: TryHackMe, HackTheBox, VAPT, Web App Security
+</div>
 
 ---
 
-### 🤝 I'm Looking To Collaborate On
+### Who I am
 
-- Django-based web development projects  
-- Beginner-friendly cybersecurity or bug bounty projects  
-- Open-source contributions related to offensive security or web tools
+I'm a Python/Django developer transitioning into full-time software engineering.  
+I build backends, design REST APIs, and approach software with a security-conscious mindset —  
+the result of holding **CPT** and **Bug Bounty Hunter** certifications from RedTeam Hacker Academy.
 
----
-
-### 📫 Reach Me At
-
-- 📧 **Email**: muhdshammas612@gmail.com  
-- 🌐 [GitHub](https://github.com/iamshammas)  
-- 💼 [LinkedIn](https://linkedin.com/in/iamshammas)
+Currently working as an Academic Advisor at **Bridgeon Skillversity** (an EdTech platform that trains developers in Python/Django/DRF) while actively building projects and preparing for my move into engineering.
 
 ---
 
-### 😄 Pronouns
-He / Him  
+### What I work with
 
-### ⚡ Fun Fact  
-I love breaking things (ethically) just to learn how to secure them later. Also, I enjoy fixing bikes and understanding machines almost as much as breaking web apps!
+**Backend**
+`Python` `Django` `Django REST Framework` `Class-Based Views` `ORM`
+
+**Databases**
+`PostgreSQL` `MySQL` `Database Design` `Migrations`
+
+**APIs & Auth**
+`REST APIs` `JWT Authentication` `OAuth 2.0` `Serialization`
+
+**Security**
+`Penetration Testing` `Bug Bounty Hunting` `OWASP Top 10` `Web App Security`
+
+**Frontend Foundations**
+`JavaScript (ES6+)` `Tailwind CSS` `HTML/CSS`
+
+**Tools**
+`Git` `Linux` `Bash` `VS Code`
 
 ---
 
-> “The best way to learn is by doing — and sometimes by hacking it first.” 🐍💻🔓
+### Projects
+
+**[Soledrop](https://github.com/iamshammas/soledrop)** — Django E-Commerce Platform  
+Full-stack shopping application. User authentication, product catalog, cart management, order history, COD checkout. Built to understand how Django's pieces — models, views, forms, auth — work together as a real system.
+
+`Django` `PostgreSQL` `JavaScript` `Bootstrap`
+
+---
+
+**DRF REST API** *(in progress)*  
+Standalone backend API built with Django REST Framework and JWT auth. No templates — designed to be consumed by a separate frontend. Building this to demonstrate API-first thinking.
+
+`DRF` `JWT` `PostgreSQL` `REST`
+
+---
+
+### Certifications
+
+- 🔐 **Certified Penetration Tester (CPT)** — RedTeam Hacker Academy
+- 🐛 **Bug Bounty Hunter (BBH)** — RedTeam Hacker Academy  
+- 🐍 **Python Django** — Avodha
+
+---
+
+### Currently
+
+- 🔨 Building a standalone DRF backend project
+- 🧩 Solving problems daily on LeetCode — [@iamshammas](https://leetcode.com/iamshammas)
+- 🛡️ Revisiting OWASP Top 10 from a developer's perspective
+- 📖 Reading about software architecture and system design
+- 🎯 Preparing for software engineering interviews
+
+---
+
+### Reach me
+
+[![Email](https://img.shields.io/badge/muhdshammas612@gmail.com-0ea5e9?style=flat-square&logo=gmail&logoColor=white)](mailto:muhdshammas612@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0ea5e9?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamshammas)
+[![LeetCode](https://img.shields.io/badge/LeetCode_@iamshammas-0ea5e9?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/iamshammas)
+
+---
+
+<div align="center">
+<sub>I build things to understand them. Security isn't an afterthought — it's how I think.</sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=80&section=footer" width="100%"/>
