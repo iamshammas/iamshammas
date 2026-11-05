@@ -6,7 +6,7 @@
 
 # Muhammed Shammas Noorudheen
 
-**Python & Django Developer &nbsp;·&nbsp; Backend Engineer &nbsp;·&nbsp; Security-Conscious Builder**
+**Python Developer &nbsp;·&nbsp; Backend Engineer &nbsp;·&nbsp; Security-Conscious Builder**
 
 ### 🎯 Open to Opportunities
 Junior Python Developer | Django/DRF Backend Roles | Actively Job Hunting
@@ -18,14 +18,13 @@ Junior Python Developer | Django/DRF Backend Roles | Actively Job Hunting
 ```python
 class Shammas:
     name     = "Muhammed Shammas Noorudheen"
-    role     = "Python & Django Developer"
+    role     = "Python Developer"
     status   = "Actively job hunting — open to Junior Python Developer roles"
     mindset  = "Build secure backends. Think like an attacker."
     certs    = ["CPT (2023)", "Bug Bounty Hunter (2023)"]
 ```
 
 ---
-
 ### 💼 Tech Stack
 
 **Languages & Programming**
@@ -66,6 +65,8 @@ class Shammas:
 
 **Cloud & Integrations**
 
+![Docker](https://img.shields.io/badge/Docker-2563eb?style=flat-square&logo=docker&logoColor=white)
+![Microsoft_Azure](https://img.shields.io/badge/Microsoft_Azure-2563eb?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-2563eb?style=flat-square&logo=cloudinary&logoColor=white)
 ![API_Integration](https://img.shields.io/badge/API_Integration-2563eb?style=flat-square&logoColor=white)
 ![HTTP_Clients](https://img.shields.io/badge/HTTP_Clients-2563eb?style=flat-square&logoColor=white)
@@ -88,7 +89,7 @@ class Shammas:
 
 **Currently Learning** 🚀
 
-![Docker](https://img.shields.io/badge/Docker-2563eb?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-2563eb?style=flat-square&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![CICD](https://img.shields.io/badge/CI/CD_Pipelines-2563eb?style=flat-square&logo=gitlab&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37b24d?style=flat-square&logo=python&logoColor=white)
